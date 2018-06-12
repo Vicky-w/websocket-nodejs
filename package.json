@@ -1,0 +1,25 @@
+{
+  "name": "websocket-nodejs",
+  "version": "1.0.0",
+  "description": "websocket nodejs test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicky-w/websocket-nodejs.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "vicky_wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vicky-w/websocket-nodejs/issues"
+  },
+  "homepage": "https://github.com/Vicky-w/websocket-nodejs#readme",
+  "dependencies": {
+    "websocket": "^1.0.26"
+  }
+}
